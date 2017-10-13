@@ -1,0 +1,15 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ignore some of the directories
+hidden_data/
+jupyternotebook/
+plots/
+testrinpython/
+zheng_and_hryciw_2015_matlab/
+prog/scratchpad/
+prog/cnt.csv
+prog/ggsfitcircle.py
+prog/lowess_arokem.py
